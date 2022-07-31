@@ -1,0 +1,27 @@
+/* 
+color  
+#cadde3
+#4f4f4f
+#000000
+
+font
+bebas neue
+poppins
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@200&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.text-primary {
+    font-family: 'Bebas Neue', cursive, sans-serif;
+}
+
+.text-second {
+    font-family: 'Poppins', sans-serif;
+}
