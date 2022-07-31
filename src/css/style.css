@@ -25,3 +25,11 @@ poppins
 .text-second {
     font-family: 'Poppins', sans-serif;
 }
+
+.c-primary {
+    color: #4f4f4f;
+}
+
+.c-second {
+    color: #cadde3;
+}
