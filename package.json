@@ -1,0 +1,25 @@
+{
+  "name": "porto-fotografer",
+  "version": "1.0.0",
+  "description": "ini adalah landing page untuk menampilkan portofolio dari seorang photographer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnuhajar/porto-fotografer.git"
+  },
+  "keywords": [
+    "portofolio",
+    "photographer",
+    "html",
+    "css"
+  ],
+  "author": "IBNU HAJAR DEWANTARA S.T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnuhajar/porto-fotografer/issues"
+  },
+  "homepage": "https://github.com/ibnuhajar/porto-fotografer#readme"
+}
