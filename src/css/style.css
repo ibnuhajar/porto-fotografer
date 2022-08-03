@@ -59,11 +59,13 @@ header {
 }
 
 .jumbotron {
-    background: url("/src/img/jumbotron.jpg");
+    /* background: url("/src/img/jumbotron.jpg"); */
     height: 80vmin;
-    width: 50%;
-    background-position: bottom;
-    background-size: cover;
+    width: 100%;
+    object-fit: cover;
+    object-position: left;
+    /* background-position: bottom; */
+    /* background-size: cover; */
 }
 
 .headline .tagline {
