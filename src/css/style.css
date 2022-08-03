@@ -59,7 +59,7 @@ header {
 }
 
 .jumbotron {
-    background: url(/src/img/jumbotron.jpg);
+    background: url("/src/img/jumbotron.jpg");
     height: 80vmin;
     width: 50%;
     background-position: bottom;
